@@ -1,1 +1,2 @@
-# NatMap
+# *NatMap*: a naturalistic assessment of spatial cognitive mapping
+*NatMap* is a novel naturalistic assessment of spatial cognitive mapping.<br> These repository shares the example data of the *NatMap* outputs.<br> For calculation, we provide "1cal_dist.py" and "2bidires.R" to produces multiple metrics that capture distinct dimensions of spatial representation, including local placement errors, global configurational accuracy, and temporal parameters.
